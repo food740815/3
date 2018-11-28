@@ -2197,7 +2197,10 @@ body {
 }
 .cid-raHq6wYE0u .mbr-text,
 .cid-raHq6wYE0u .mbr-section-btn {
-  color: #ffffff;
+  color: #767676;
+}
+.cid-raHq6wYE0u H1 {
+  color: #b1a374;
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
@@ -2608,4 +2611,11 @@ body {
   .cid-raHmHne0iY .mbr-text {
     text-align: center;
   }
+}
+.cid-raHmHne0iY H1 {
+  color: #b1a374;
+}
+.cid-raHmHne0iY .mbr-text,
+.cid-raHmHne0iY .mbr-section-btn {
+  color: #767676;
 }
